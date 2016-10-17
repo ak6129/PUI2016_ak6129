@@ -7,8 +7,8 @@ for nrg and BBL	UnitsRes	UnitsTotal columns for bsize.
 Made a scatter plot. 
 Renamned nrg to nrg2 
 Merged BBL from nrg2 with BBl bsize. 
-
-
+Made scatter plots for merged dataset. 
+Made log plot and fited a line to Units vs Energy and a line to Energy vs Units.
 
 Assignment_2
 
