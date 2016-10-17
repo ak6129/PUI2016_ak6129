@@ -5,6 +5,8 @@ Downloaded and moved data to PUIdata.
 Cleaned up the data and left NYC Borough, Block, and Lot (BBL)	Site EUI(kBtu/ft2)	Reported Property Floor Area (Building(s)) (ft²) columns 
 for nrg and BBL	UnitsRes	UnitsTotal columns for bsize. 
 Made a scatter plot. 
+Renamned nrg to nrg2 
+Merged BBL from nrg2 with BBl bsize. 
 
 
 
