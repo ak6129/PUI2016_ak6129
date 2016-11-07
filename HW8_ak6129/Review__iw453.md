@@ -1,3 +1,4 @@
+![alt tag](https://github.com/ak6129/PUI2016_ak6129/blob/master/HW8_ak6129/iw453.png)
 
 Clarity: As the title implies the plot supposed to visualize sugar content in 77 popular breakfast cereals where X-axis is sugar per 
 serving in grams and Y-axis is count of cereals. The plot has attributes such as title, axes description, and good(one) color scheme readability. 
