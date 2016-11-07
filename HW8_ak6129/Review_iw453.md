@@ -14,4 +14,5 @@ Suggestion: from the same data set choose top 10 cereals ['names'] and sugar con
 assign ['sugars'] to y-axis. if it's hard to fit names of cereals to x-axis then assign color for each cereals and attache a legend to 
 the plot. Change title of the plot and captions of x and y axis.  
 I don't see any reason to use 'plt.subplots()' in the code. 
+I saved the plot as png (prints creen) for this review. 
 
