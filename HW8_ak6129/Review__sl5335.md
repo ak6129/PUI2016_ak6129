@@ -1,3 +1,4 @@
+![alt tag](https://github.com/ak6129/PUI2016_ak6129/blob/master/HW8_ak6129/sl5335.png)
 
 Clarity: As the title implies the plot supposed to visualize total deadlifting volume in 2016 where X-axis represents date in yyyy/mm/dd
 format and Y-axis represents total weight in pounds. The plot has attributes such as title, axes caption, legend, and readable color scheme. 
