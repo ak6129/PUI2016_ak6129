@@ -9,7 +9,6 @@
 ## Review
 
 **CLARITY:** 
-
 The plot is very clear to read and you use trangle to identify each point
 
 
