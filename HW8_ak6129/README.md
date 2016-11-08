@@ -1,7 +1,7 @@
 
 Assignment_1
 
-in order to finish lab i got significan help from Santiago
+in order to finish lab i got significant help from Santiago
 
 Assignment_2
 
