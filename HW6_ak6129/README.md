@@ -16,3 +16,7 @@ Continue citibike project. Perform z-test as was adviced in project review. Wrot
 https://www.authorea.com/users/106326/articles/133244/_show_article 
 
 Working group: Laura, Maisha, Nonie, Santiago
+
+# README
+
+your authorea article is set to private and I cannot see it.
