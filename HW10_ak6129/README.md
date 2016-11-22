@@ -11,11 +11,11 @@ Moran’s I measures the global spatial autocorrelation. Thus, the I statistic f
 for this data, and has a very small p value. I statistics is not close to our expected value for summer rides and winter rides. 
 Local autocorrelation analysis show the following hot and cold spots:
 
-Number of Hotspots_summer: 188
-Number of Coldspots_summer: 245
+Number of Hotspots_summer: 190
+Number of Coldspots_summer: 242
 
-Number of Hotspots_winter: 192
-Number of Coldspots_winter: 210
+Number of Hotspots_winter: 193
+Number of Coldspots_winter: 211
 
 The difference between hot spots in two seasons is not significant, while difference in cold spots is visual.    
 
