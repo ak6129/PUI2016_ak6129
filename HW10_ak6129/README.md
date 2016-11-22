@@ -2,7 +2,6 @@ Assignment_1
 
 Finished Notebook started in the class. 
 
-
 Assignment_2
 
 Global autocorrelation analysis (which asks the question as to whether the pattern displays clustering or not) displays 
@@ -19,4 +18,4 @@ Number of Coldspots_winter: 211
 
 The difference between hot spots in two seasons is not significant, while difference in cold spots is visual.    
 
-Group: Mona helped me and Maisha in the begining to understand season splitting formula.  
+Group: Mona helped me and Maisha in the beginning to understand seasons splitting formula. I helped Santiago with some questions for assignments.     
