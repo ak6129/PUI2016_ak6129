@@ -18,7 +18,7 @@ Used another clustering algorithm and plot dendrogram.
 Merged nyc_shape with k-means and hierarchical labels and plot kmeans cluster and hierarchical cluster on NYC Map.
 Compared results. 
 
-
+Group: I received help and instructions for both assignment from Mona. 
 
 
 
