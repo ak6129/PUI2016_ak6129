@@ -9,7 +9,7 @@ Loop over the Brookly polygons. Found in which geometry the polygon is contained
 Ploted CUSP point.
 
 Assignment 2
-Download Census Business data for period from 1993 to 2015 and geojson file from the github repo. 
+Downloaded Census Business data for period from 1993 to 2015 and geojson file from the github repo. 
 Merged 2 data sets to prepare the data for clustering.
 Cluster the NUMBER OF ESTABLISHMENTS time series with K-means. Used elbow method to identify number of clusters. 
 The elbow method shows 2 clusters. Choosed 5 as number of cluster as per instructions.
