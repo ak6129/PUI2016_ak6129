@@ -8,9 +8,9 @@ Introduction: In New York City (NYC), nearly 4,000 residents are injured and mor
 
 Data: The main resource of the data for this project was DOT specifically Vision Zero Data Feeds3. The project will include two sets of data: fatalities distributed by year and fatalities distributed by month. Both data sets consist of total number of fatalities for period from 2009 to 2016, distribution of fatalities among 3 major groups, year or month for registered fatalities, and location within 5 boroughs in NYC. To prepare the data for analysis I formatted and merged originally separated columns  - ‘YR’ for year, and ‘MN’ for month – to yyyy/mm/dd format and added a new column “Date”. Then I used groupby function to group and sum up data in every column and new data frame: 
 
-Date	Fatalities	PedFatalit	BikeFatali	MVOFatalit
+Date	      Fatalities	PedFatalit	BikeFatali	MVOFatalit
 
-2009-01-01	733	649	0	84
+2009-01-01	733	        649	        0	            84
 
 2009-02-01	830	646	0	184
 
