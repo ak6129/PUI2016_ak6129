@@ -1,7 +1,7 @@
 
 # PUI2016 Extra Credit Project 
 # Vision Zero Crash Data Analysis 
-# Alexey Kalinin, GitHub – ak6129, NYU ID - ak6129
+# Alexey Kalinin, GitHub – ak6129
 
 Abstract: The project was focused on exploring fatalities occurred in New York City (NYC) among 3 major groups involved in traffic accidents between 2009 and 2016: pedestrians, bicyclists, and motor vehicle occupants(MVO). The project’s results show that overall trend in fatalities is declining, while trend analysis for each group shows that fatalities among bicyclists is increasing. Also, further analysis revealed that the highest number of fatalities occurred: for pedestrians in lower east side downtown Manhattan, zip code 10002; for bicyclists in east Harlem uptown Manhattan zip code 10029; for MVO in East Flatbush, Brooklyn, zip code 11203.
 Introduction: In New York City (NYC), nearly 4,000 residents are injured and more than 250 residents are killed due to traffic collisions each year1.  According to NYC government, collisions injure or kill some City residents every two hours2.  In response to the high injury rate, the City has taken a number of initiatives to mitigate the volume of injuries, including, expanding enforcement against speeding and yielding to pedestrians, harsher penalties for dangerous drivers, and new street designs that improve safety. The questions for this project are to find out tendency for fatalities due to road accidents in NYC for period from 2009 to 2016, localize some high-risk locations for 5 boroughs for 3 major groups – pedestrians, bikers, and motor vehicle occupants, and explore what are the changes for these locations. To answer the stated questions, I’m going to analyze a data provided by Department of Transportation (DOT) of NYC.   
