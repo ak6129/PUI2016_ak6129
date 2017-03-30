@@ -10,7 +10,7 @@ key = sys.argv[1]
 bus_id = sys.argv[2]
 csv_out = sys.argv[3]
 
-#url = "http://bustime.mta.info/api/siri/vehicle-monitoring.json?key=3757e20b-a934-4ff6-a857-60a74ea04a2b&VehicleMonitoringDetailLevel=calls&LineRef=B52"
+#url = "http://bustime.mta.info/api/siri/vehicle-monitoring.json?key=&VehicleMonitoringDetailLevel=calls&LineRef=B52"
 url = "http://bustime.mta.info/api/siri/vehicle-monitoring.json?key=" + key + "&VehicleMonitoringDetailLevel=calls&LineRef=" + bus_id
 response = urllib.urlopen(url)
 data = response.read().decode("utf-8")
