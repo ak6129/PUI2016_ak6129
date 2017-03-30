@@ -4,7 +4,7 @@ import json
 import urllib2 as urllib
 import sys
 
-#url = "http://bustime.mta.info/api/siri/vehicle-monitoring.json?key=3757e20b-a934-4ff6-a857-60a74ea04a2b&VehicleMonitoringDetailLevel=calls&LineRef=B52"
+#url = "http://bustime.mta.info/api/siri/vehicle-monitoring.json?key=&VehicleMonitoringDetailLevel=calls&LineRef=B52"
 url = "http://bustime.mta.info/api/siri/vehicle-monitoring.json?key=" + sys.argv[1] + "&VehicleMonitoringDetailLevel=calls&LineRef=" + sys.argv[2] 
 
 response = urllib.urlopen(url)
